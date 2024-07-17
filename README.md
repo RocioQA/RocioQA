@@ -17,7 +17,7 @@
 <br>
 
 <div align="left">
-  <h3 align="left"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> About me:</h3>
+  <h2 align="left"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> About me:</h2>
 
   - 👩🏻 I am a Tester QA Manual **open to work**.
   - 🔜 I’m currently learning about **Python, Testing and Automation**
@@ -30,7 +30,7 @@
 
 <br>
 
-<h3 align="left"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJpa2p2b2J3OHUzY3ViN29yamU1N2xqdmtuZzA0cWF2cHdyb3NlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width="25"> Languages and Dev Tools</h3>
+<h2 align="left"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJpa2p2b2J3OHUzY3ViN29yamU1N2xqdmtuZzA0cWF2cHdyb3NlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width="25"> Languages and Dev Tools</h2>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -42,9 +42,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" **alt="NumPy" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
-</p>
-&nbsp;
-<h3 align="left"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1lOWY2dmttZTA2em5nZnQ1MXJvZmV6c2dwZXUxMmgwdm5vcjFwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G74LKP9zsfLInmz3H6/giphy.gif" width="25"> Testing Tools</h3>
+</p>&nbsp;
+
+<h2 align="left"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1lOWY2dmttZTA2em5nZnQ1MXJvZmV6c2dwZXUxMmgwdm5vcjFwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G74LKP9zsfLInmz3H6/giphy.gif" width="25"> Testing Tools</h2>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" **alt="Trello" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>
@@ -56,7 +56,7 @@
 
 <br>
 
-<h3 align="left"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE0aHJtbWJjZjk0YWEwd2hoZGR0cXQwYXhxOG40cnZ6OXF2MXowYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8m4gPv1UFz1jmiCtKd/giphy.gif" width="25"> My Stats:</h3>
+<h2 align="left"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE0aHJtbWJjZjk0YWEwd2hoZGR0cXQwYXhxOG40cnZ6OXF2MXowYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8m4gPv1UFz1jmiCtKd/giphy.gif" width="25"> My Stats:</h2>
 <div align="center" &nbsp>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rocioqa&show_icons=true&theme=dark&background=000000&locale=en" alt="rocioqa"/>
 </div>&nbsp;
