@@ -4,7 +4,7 @@
     <h1>
       Hi, I'm Rocio Schkair! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <img src="https://komarev.com/ghpvc/?username=RocioQA&color=green" alt="Profile Views"/>
     </h1>
-    <h3 align="center">A passionate QA Tester from Argentina </h3>
+    <h3 align="center">A passionate QA Analyst from Argentina </h3>
       <a href="https://www.linkedin.com/in/rocio-schkair/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
@@ -19,7 +19,7 @@
 <div align="left">
   <h2 align="left"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> About me:</h2>
 
-  - 👩🏻 I am a Tester QA Manual **open to work**.
+  - 👩🏻 I am a QA Analyst **open to work**.
   - 🔜 I’m currently learning about **Python, Testing and Automation**
   - 📩 How to reach me **rocioschkair@gmail.com**
   - 📄 Know about my experiences [https://rocios-resume.tiiny.site/](https://rocios-resume.tiiny.site/)
